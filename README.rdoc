@@ -10,4 +10,9 @@
   end
 
   gem 'bower-rails'
-3.
+3. Bowerfile
+  asset 'angular'
+  asset 'bootstrap-sass-official'
+4. rake bower:install
+5.
+
